@@ -18,7 +18,32 @@ body{
     .flex-nav{
         display: flex;
         flex-direction: column;
-        background-color: yellow;
+       
+    }
+    .navsearch{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .address{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .second{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .third{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .twopics{
+        display: flex;
+        flex-direction: column;
+       
     }
 }
 .navsearch{
